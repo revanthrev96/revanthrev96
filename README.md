@@ -23,7 +23,7 @@
 
 ### 🚀 Projects
 Here are some of my notable projects:
-- **Dangling DNS Record Identification**: Identified and resolved a critical DNS misconfiguration, saving my organization **$14,500 annually**.  
+- **Dangling DNS Record Identification**: Discovered and remediated a critical AWS DNS misconfiguration using a black-box approach.
 - **OSINT Automation**: Currently building a Python-based tool to automate OSINT tasks for faster reconnaissance.  
 - **Detection Engineering**: Developing Splunk detection rules for identifying various attacks and cloud vulnerabilities.  
 
